@@ -21,3 +21,5 @@ assignees: Holt59
 - **Saves directory [optional]:** Path to the folder containing save games (this default to the path above).
 - **Save extension [optional]:** Extension of the saves
 - **Steam ID [optional]:** ID of the game on Steam (if the game is on Steam).
+
+**Provide additional details regarding the game that could be required for the plugin.**
